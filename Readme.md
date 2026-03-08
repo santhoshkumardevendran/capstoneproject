@@ -11,10 +11,10 @@ ________________________________________
 
 •Tech Stack
 
-Layer            -	  Tools Used
-Source Control   -	 Git, GitHub
-CI/CD            -	  Jenkins
-Containerization -   	  Docker, Docker Hub
+Layer            - Tools Used
+Source Control   - Git, GitHub
+CI/CD            - Jenkins
+Containerization - Docker, Docker Hub
 Cloud Platform	 - AWS EC2
 Monitoring	     - Prometheus, Node Exporter, Grafana
 Application	     - Node.js web appli
